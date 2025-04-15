@@ -1,0 +1,37 @@
+h1{
+    border-radius:10px ;
+    border:3px solid red ;
+    text-align: center;
+    background-color: darkcyan;
+}
+.ss{
+    background-color: yellow;
+}
+.s{
+    color: red;
+}
+td{
+    width:250px ;
+    text-align: center;
+    background-color: blueviolet;
+}
+th{
+    width: 100px;
+    background-color: green;
+}
+h2{
+    text-align: center;
+    background-color:yellow;
+}
+button{
+    height: 25px;
+    width: 200px;
+    background-color: green;
+}
+.kartinka{
+    width: 25%;
+    height: 300px;
+    width: 500px;
+    
+
+}
